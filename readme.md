@@ -6,7 +6,7 @@
 
 ###Completed Games###
 
-  *Drumph
+  * Drumph
 
 
 ###For these games to work. FIrst install gosu library on your computer###
