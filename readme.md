@@ -14,7 +14,7 @@
 `gem install gosu`
 
  - - - -
-###or visit Gosu website for instructions on installing in you specific Environment
+###or visit Gosu website for instructions on installing in your specific Environment
 
 [GOSU](https://www.libgosu.org/)
 
